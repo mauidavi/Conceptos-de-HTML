@@ -1,0 +1,23 @@
+/* ¿Por qué aprender HTML?
+Cada página web que mirás está escrita en un lenguaje llamado HTML. 
+HTML es como un esqueleto que le da estructura a cada página web. En este curso, 
+usaremos HTML para añadir párrafos, encabezados, imágenes y enlaces a una página web.
+
+En el editor que podés ver a la derecha hay una pestaña llamada test.html. Este es el archivo 
+en el cual vamos a escribir nuestro HTML. ¿Ves el código con los símbolos <>? Eso es HTML. 
+Como cualquier otro lenguaje, tiene su propia sintaxis (reglas para la comunicación) especial.
+
+Cuando hacemos clic en “Guardar y enviar”, la ventana de resultados actúa como un navegador 
+de Internet (como por ej. Chrome, Firefox, Internet Explorer). La función de un navegador es t
+ransformar el código que está en test.html en una página web reconocible. El navegador sabe cómo 
+distribuir la página siguiendo la sintaxis HTML.*/
+
+/*A la derecha tenemos un archivo test.html.
+
+Cambiá el texto de la línea 2 (la partecita que aparece entre <strong> y </strong>) por lo que quieras.
+
+Hacé clic en “Guardar y enviar” y vas a ver cómo se vería en un navegador el archivo test.html. 
+¿Viste? Las etiquetas <strong></strong> resaltaron nuestro texto con letra negrita./*
+
+<!DOCTYPE html>
+    <strong>esto es una preuba</strong>
